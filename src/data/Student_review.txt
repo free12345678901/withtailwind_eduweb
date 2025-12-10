@@ -1,0 +1,14 @@
+xyz{
+    Student name:xyz
+    Student review:
+    Student Course:
+    Student placement:
+    Student Image Path:
+},
+abc{
+    Student name:abc
+    Student review:
+    Student Course:
+    Student placement:
+    Student Image Path:
+},

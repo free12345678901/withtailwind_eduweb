@@ -1,0 +1,340 @@
+This is a great request! I will use your sample format and populate it with the details for every course from the image, combining them all into a single, cohesive text block.
+
+***
+
+### 📚 IT For Kids
+**Course Description**
+This introductory course is designed for children to learn the very basics of computers, including essential applications and some fun multimedia.
+
+**2 Months**
+**~8 Topics**
+
+**Course Overview**
+This introductory course is designed for children to learn the very basics of computers, including essential applications and some fun multimedia.
+
+**What You'll Learn**
+* Master basic keyboard and typing skills.
+* Learn fundamental document creation using Word Pad and Ms-Word.
+* Explore basic drawing and editing with Ms-Paint.
+* Understand data organization using Ms-Access and Ms-Excel (implied).
+
+**Prerequisites**
+None.
+
+**Course Curriculum**
+* Typing
+* Word Pad
+* Ms-Paint
+* Notepad
+* Ms-Word
+* Ms-Access
+* Games and Multimedia
+
+***
+
+### 🖥️ CCC (Course on Computer Concepts)
+**Course Description**
+A foundational course covering essential computer skills, the Internet, and basic productivity software, ideal for beginners.
+
+**2 Months**
+**~12 Topics**
+
+**Course Overview**
+A foundational course covering essential computer skills, the Internet, and basic productivity software, ideal for beginners.
+
+**What You'll Learn**
+* Gain a strong foundation in computer fundamentals.
+* Develop fluency in using the Ms-Office suite (Word, Excel, PowerPoint).
+* Understand file management, printing, and scanning.
+* Learn basics of multimedia and the Internet.
+
+**Prerequisites**
+None.
+
+**Course Curriculum**
+* Computer fundamental
+* Typing (English, Hindi, Gujarati)
+* Ms-Paint
+* Ms-Office
+* Notepad
+* Internet
+* Ms-Word
+* Printing, Scanning
+* Ms-Excel
+* CD/DVD Writing
+* Ms-Power Point
+* Use of Removable Devices, Multimedia, Theory
+
+***
+
+### 💻 CCC+
+**Course Description**
+An expanded version of the CCC course, adding more depth to productivity software, including Ms-Access.
+
+**3 Months**
+**~13 Topics**
+
+**Course Overview**
+An expanded version of the CCC course, adding more depth to productivity software, including Ms-Access.
+
+**What You'll Learn**
+* Deepen skills in the core Ms-Office applications.
+* Introduce the fundamentals of database management using Ms-Access.
+* Cover all core concepts of the CCC curriculum with additional practical sessions.
+
+**Prerequisites**
+None (Basic computer familiarity recommended).
+
+**Course Curriculum**
+* Computer fundamental
+* Typing (English, Hindi, Gujarati)
+* Ms-Paint
+* Ms-Office
+* Notepad
+* Internet
+* Ms-Word
+* Printing, Scanning
+* Ms-Excel
+* CD/DVD Writing
+* Ms-Power Point
+* Use of Removable Devices, Multimedia, Theory
+* Ms-Access
+
+***
+
+### 📈 Tally + Miracles
+**Course Description**
+A comprehensive course on computerized accounting, focusing on Tally Prime, covering advanced features including Inventory, Taxation (VAT, TDS, GST), and Smart Modules.
+
+**3 Months**
+**~30+ Topics**
+
+**Course Overview**
+A comprehensive course on computerized accounting, focusing on Tally Prime, covering advanced features including Inventory, Taxation (VAT, TDS, GST), and Smart Modules.
+
+**What You'll Learn**
+* Master core accounting principles and voucher entry in Tally.
+* Manage complex inventory, including Godowns and stock valuation.
+* Implement various tax structures like VAT, TDS, and the entire GST framework.
+* Utilize Smart Modules like Payroll and Cost Centers.
+
+**Prerequisites**
+Basic knowledge of accounting principles is highly recommended.
+
+**Course Curriculum**
+* **Accounting Module:** Computer Fundamental, Introduction to Tally, Accounting Terms, Voucher Entry, Contra, Payment, Receipt, Sale, Purchase, Day Book, Bank Reconciliation & BRS, Interest Calculation, Year Ending Entries.
+* **Inventory Module:** Inventory Creation, Receipt/Issue/Outward, Stock Transfer, Manufacturing Journal, Price Level, Multiple Godown, Stock Valuation Method.
+* **Smart Module:** Multi Currency, Payroll System, Cost Center, Budget & Controls, Additional Cost on Purchase, POS Invoice.
+* **Taxation Module:** VAT, TDS, Service Tax, TCS, Dealer Excise, GST.
+* **Goods & Service Tax (GST):** Single Slab, Multiple Tax Slabs, GST Configuration in Group Level, Enabling Auto-Billing in Tally, Recording GST Services, Recording GST Expenses, Recording Assets, GST Components and Adjustments, GSTR-1, GSTR-2, 2A & 2B, GSTR-1B, E-Way Bill, Registration, Generate, Update and Cancel.
+* **Special Features:** Print Customisation, Cheque Printing, Regional Language, Internet.
+
+***
+
+### 🎨 Graphics Design
+**Course Description**
+A complete training program covering the essential tools of graphic design: Photoshop, Illustrator, and Corel Draw, focusing on image editing, illustration, and design for print and web.
+
+**4 Months**
+**~40+ Topics**
+
+**Course Overview**
+A complete training program covering the essential tools of graphic design: Photoshop, Illustrator, and Corel Draw, focusing on image editing, illustration, and design for print and web.
+
+**What You'll Learn**
+* Master image manipulation, retouching, and special effects in **Photoshop**.
+* Create logos, illustrations, and vector graphics using **Illustrator**.
+* Design layouts, brochures, cards, and print materials using **Corel Draw**.
+* Understand color theory, typography, and professional design workflow.
+
+**Prerequisites**
+Basic computer literacy.
+
+**Course Curriculum**
+* **Photoshop:** Introduction, Math, Layer, Channels & Tool Box, Color & Adjustment, Shapes, Text Operations, Selections & Masking, Smart Objects, Transform & Distort, Retouching, Image Editing, Photo Mixing with Special Effects, Wedding Album, Filters, Logo Creation, Web Banners, Photo Manipulations, Graphic Design Work, Creative GIF Animations, Create Website Mockups.
+* **Illustrator:** Introduction, Drawing in Illustrator, Working with Fonts, Creating Typography, Layers & Masking, Controlling Color Theory, Creating Effects & Patterns, Working with Brushes, Creating New Brush.
+* **Corel Draw:** Typing (Gujarati, Hindi, English), Workspace, Tool Box, Creating New Objects, Drawing Objects, Transforming Object, Drawing & Editing Tools, Text & Adjustments, Text on Path & Circle, Power Clip & Rollover Effects, Effects and Fills, Working with Layouts, Logos, Visiting Cards, Letterhead, Wedding Card, Working Card, Brochure & Leaflet Design, Creating Vector Graphics, Geometric Grid & Artwork, Creating Complex Images, 3D Material Design, Export in other formats, Creating Logos, Visiting Cards, Brochure & Leaflet Design, Creating Vector Graphics, Creating Portfolio.
+
+***
+
+### 📐 AutoCAD
+**Course Description**
+A hands-on course in Computer-Aided Design, teaching students to create and manipulate 2D and 3D drawings for engineering and architectural purposes.
+
+**3 Months**
+**~8 Topics**
+
+**Course Overview**
+A hands-on course in Computer-Aided Design, teaching students to create and manipulate 2D and 3D drawings for engineering and architectural purposes.
+
+**What You'll Learn**
+* Create and edit basic 2D and 3D drawings.
+* Work effectively with layers and layouts.
+* Master the manipulation and alteration of drawing objects.
+* Annotate drawings using text and hatching.
+
+**Prerequisites**
+Basic knowledge of geometry and technical drawing is helpful.
+
+**Course Curriculum**
+* Creating Basic Drawing
+* Manipulating Objects
+* Drawing with Layers
+* Altering Objects
+* Working with Layouts
+* Annotating Drawing & Text
+* Hatching Objects
+* Working with Reusable Contents
+* Plotting your Drawing
+* 3D modeling Workspace
+* 3D objects from 2D Workplaces
+* Materials & Lighting
+* Rendering
+
+***
+
+### 👨‍💻 C Language
+**Course Description**
+A foundational course introducing structured programming concepts using the C language, covering data types, control flow, functions, arrays, and pointers.
+
+**3 Months**
+**~10 Topics**
+
+**Course Overview**
+A foundational course introducing structured programming concepts using the C language, covering data types, control flow, functions, arrays, and pointers.
+
+**What You'll Learn**
+* Understand and use basic data types, variables, and operators.
+* Implement control flow statements (if, switch, loops) for program logic.
+* Write and utilize library and user-defined functions.
+* Master complex data structures like arrays, pointers, and structures.
+
+**Prerequisites**
+Basic computer literacy.
+
+**Course Curriculum**
+* **Introduction:** Basic Data Types & Equim Data Types, Variable, Constants & Format Specifier, Operator And Expression, Arithmetic, Assignment, Relational, Increment & Decrement, Logical, Bitwise.
+* **Control Flow Statement And Syntax:** If, If Else, If Else If, Switch, Case, Nested If, Goto, Upward & Downward Jump.
+* **Loops (For, While, Do While), Nesting of Loop.**
+* **Array** (Single & Multidimensional).
+* **Library Functions:** Char Function, String Function, Other Various Function, User Define Functions (With/Without Args/Return).
+* **Pointers:** Structures & Union.
+* **File Input & Output**
+* **Debugging, Theory.**
+
+***
+
+### 🖥️ CPP (C++)
+**Course Description**
+This course introduces Object-Oriented Programming (OOP) using C++, covering core concepts like classes, inheritance, polymorphism, and memory allocation.
+
+**2 Months**
+**~10 Topics**
+
+**Course Overview**
+This course introduces Object-Oriented Programming (OOP) using C++, covering core concepts like classes, inheritance, polymorphism, and memory allocation.
+
+**What You'll Learn**
+* Master fundamental OOP concepts: Class, Object, Constructor, and Destructor.
+* Implement **Inheritance** and **Polymorphism**.
+* Understand advanced C++ features like Virtual Method, Operator Overloading, and Dynamic Memory Allocation.
+
+**Prerequisites**
+Solid understanding of C Language fundamentals.
+
+**Course Curriculum**
+* **Introduction of OOP:** Basics, Constructor, Class, Object, Destructor.
+* **Inheritance:** Polymorphism, Encapsulation, Abstract method, Static Method, Method Overloading.
+* **Inline Method:** Virtual Method, Operator Overloading, Dynamic Memory Allocation, File Handling.
+
+***
+
+### 🎓 Diploma in Computer Application
+**Course Description**
+A comprehensive diploma providing an in-depth understanding of computer systems, office automation, web design fundamentals, advanced accounting, and graphic design tools.
+
+**8 Months**
+**~10 Modules**
+
+**Course Overview**
+A comprehensive diploma providing an in-depth understanding of computer systems, office automation, web design fundamentals, advanced accounting, and graphic design tools.
+
+**What You'll Learn**
+* Establish a strong base in Computer Organization & Operating System.
+* Master the full Ms-Office suite and Web Designing basics (HTML, CSS, Bootstrap).
+* Gain expertise in Advanced Accounting (Tally Prime, Miracle).
+* Learn foundational Desktop Publishing (Photoshop, Corel draw).
+
+**Prerequisites**
+Basic computer literacy.
+
+**Course Curriculum**
+* Computer Organization & Fundamental of Operating System
+* CCC
+* Ms-Office
+* Web Designing Tools (HTML, CSS, Bootstrap)
+* Advanced Accounting System
+* Tally Prime, Miracle
+* Desktop Publishing (Photoshop, Corel draw)
+
+***
+
+### 🎓 Post Graduate Diploma in Computer Application (PGDCA)
+**Course Description**
+A one-year advanced diploma covering core computing, programming in C, C++, and Web development (HTML, CSS, PHP, Script), alongside advanced accounting and soft skills.
+
+**1 Year (2 Semesters)**
+**~15 Modules**
+
+**Course Overview**
+A one-year advanced diploma covering core computing, programming in C, C++, and Web development (HTML, CSS, PHP, Script), alongside advanced accounting and soft skills.
+
+**What You'll Learn**
+* Master structured programming in **C** and Object-Oriented Programming in **C++**.
+* Develop full-stack basic web applications using **HTML, CSS, JavaScript, and PHP**.
+* Gain expertise in Advanced Accounting (Tally Prime, Miracle) and Office Automation.
+* Develop essential soft skills and spoken English for professional success.
+
+**Prerequisites**
+High School Diploma or equivalent (Post Graduate nature suggests a prior degree or equivalent knowledge).
+
+**Course Curriculum**
+* **Semester 1:** Computer Organization & Fundamental of Operating System, Computer Programming & Programming Methodology, C Language, Office Automation, CCC, Ms-Office, Web Designing Tools (HTML, CSS, Dream Weaver), Advanced Accounting System, Tally Prime, Miracle.
+* **Semester 2:** Object Oriented Programing, C++, Web Based Programing, Java Script, PHP, Soft Skill, Spoken English.
+
+***
+
+### 🗣️ Spoken English
+**Course Description**
+A practical course focused on developing fluency and confidence in spoken English, covering grammar fundamentals, conversational skills, and presentation techniques.
+
+**2 Months**
+**~15 Topics**
+
+**Course Overview**
+A practical course focused on developing fluency and confidence in spoken English, covering grammar fundamentals, conversational skills, and presentation techniques.
+
+**What You'll Learn**
+* Master basic grammar components (Parts of Speech, Tenses, Active/Passive Voice).
+* Develop fluency in command sentences and complex sentence structures.
+* Practice essential soft skills like Group Discussion, Interview Skill, Conversation, and Q&A Sessions.
+
+**Prerequisites**
+Basic reading and writing ability in English.
+
+**Course Curriculum**
+* Article, Noun, Pronoun, Adjective, Verb, Preposition, Conjunction, Demonstration, Part of 'To be'
+* Want, Need & Like
+* Infinitive Verb
+* Command Sentence
+* Continuous Action
+* Phrasal Verb
+* Asking
+* Conversation
+* Q&A Sessions
+* Presentation Skill
+* Group Discussion
+* Interview Skill
+* Tenses
+* Active & Passive
+* Narration
